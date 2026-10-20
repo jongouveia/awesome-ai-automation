@@ -53,6 +53,7 @@ Platforms for building, deploying, and managing AI agents and multi-agent system
 | [Voiceflow](https://www.voiceflow.com) | Build and deploy chat + voice AI agents without code | ✅ Limited |
 | [Botpress](https://botpress.com) | Open-source AI agent platform, 750K+ bots deployed | ✅ Free plan |
 | [MindPal](https://mindpal.space) | Multi-agent AI workforce for content, research, and ops | ✅ Limited |
+| [Orkas](https://orkas.ai/?source=gh_jongouveia) | Turn briefs into research, documents and code with Commander-led specialists and local coding agents; open-source, local-first desktop app with supported own-provider models | Free core; model usage and optional services may cost extra |
 | [Lindy](https://www.lindy.ai) | AI employee platform for email, scheduling, and CRM automation | ✅ Limited |
 | [Lamatic.ai](https://lamatic.ai) | Visual LLM workflow builder, connects AI models to your tools | ✅ Limited |
 | [Gumloop](https://www.gumloop.com) | AI pipeline builder for research, data extraction, and analysis | ✅ Limited |
